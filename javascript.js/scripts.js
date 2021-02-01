@@ -42,7 +42,7 @@ function create_snake()
     }
 }
 
-// create the food 
+//number 1 create the food 
 function create_food()
 {
     food = {
